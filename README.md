@@ -51,4 +51,5 @@ Monitors inventory health through stock levels, stock-out risks, overstock analy
 
 ## 🔗 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/mohitchauhan157
+LinkedIn : https://www.linkedin.com/in/mohitchauhan157
+Portfolio : https://codebasics.io/portfolio/Mohit-Chauhan 
