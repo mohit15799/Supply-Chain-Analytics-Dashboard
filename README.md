@@ -25,7 +25,8 @@ Developed an interactive Supply Chain Analytics dashboard in Power BI to provide
 
 Provides a high-level overview of sales, inventory, profitability, and operational performance.
 
-![Executive Summary](Executive_Summary.png)
+<img width="1207" height="682" alt="image" src="https://github.com/user-attachments/assets/e78127b6-749f-4ec4-be2a-3665f802e297" />
+
 
 ---
 
@@ -33,7 +34,8 @@ Provides a high-level overview of sales, inventory, profitability, and operation
 
 Monitors inventory health through stock levels, stock-out risks, overstock analysis, and reorder metrics.
 
-![Inventory Optimization](Inventory_Optimization.png)
+<img width="1202" height="683" alt="image" src="https://github.com/user-attachments/assets/9fffb030-4ed8-4071-a645-c5894a50526a" />
+
 
 ## 📈 KPIs Tracked
 
